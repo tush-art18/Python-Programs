@@ -1,6 +1,6 @@
 #2. Write a Python program to multiply all the items in a list.
 
-lst = [7,15,10,11,1,23]
+lst = [7,15,10,11,1,23,15]
 
 mulofall = 1
 
